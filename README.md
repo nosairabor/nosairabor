@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Nosa Irabor, a frontend web developer. I make excellent web applications with beautiful and user-friendly interfaces using majorly CSS & React✨. I am also a professional guitarist🎸.
+I am Nosa Irabor, a frontend web developer. I make excellent web applications with beautiful and user-friendly interfaces majorly with CSS & React.js✨. I am also a professional guitarist🎸.
 
 About me:
 - 👨‍🎓 I am a Computer science student.
