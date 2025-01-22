@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Nosa Irabor, a frontend engineer. I make excellent web applications with beautiful and user-friendly interfaces majorly with React✨
+I'm Nosa Irabor, a Frontend engineer. I make excellent web applications with beautiful and user-friendly interfaces majorly with React✨
 
 About me:
-- 👨‍🎓 I'm a Computer science undergraduate.
+- 👨‍🎓 I'm a Computer Science graduate.
 - 👯 I’m looking to collaborate with anyone who has something cool to work on.
 - 📫 How to reach me: <span><a href="https://www.linkedin.com/in/nosa-irabor-a4a2531a2">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
